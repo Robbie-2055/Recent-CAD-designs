@@ -2,7 +2,7 @@
 ## Recent CAD Robotics & Mechanical Designs
 
 I am a Mechatronics engineer focused on creating functional,
-high-performance robotic systems. I thought i could present some of my recent CAD 
+high-performance robotic systems. As i further explore the use of solidworks,  I thought i could present some of my recent CAD 
 designs that i plan to bring to life to test different aspects like PID control in 
 selfbalancing system and Kinematics and inverse kinematics in the robotic arm and the 
 quadraped. 
